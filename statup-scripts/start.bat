@@ -1,4 +1,5 @@
 @echo off
+title Automated Minecraft Server     Made by CerialPvP
 echo |------------------------------|
 echo |  Automated Minecraft Server  |
 echo |      Made by CerialPvP       |
